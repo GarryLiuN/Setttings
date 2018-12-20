@@ -1,0 +1,17 @@
+{
+    "zenMode.hideTabs": false,
+    "editor.wordWrap": "on",
+    "zenMode.hideStatusBar": false,
+    "todohighlight.isEnable": true,
+    "files.associations": {
+        "*.cfg": "xml",
+        "*.xsd": "xml"
+    },
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "window.zoomLevel": -1,
+    "zenMode.centerLayout": false
+}
