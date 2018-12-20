@@ -6,8 +6,6 @@ export PATH=$PATH:/bb/bigstorq3/derv_xasset/tools/xbuild_v5/bin/
 export PATH=$PATH:/opt/swt/install/apache-maven-3.1.1/bin
 
 alias out="git checkout"
-alias xdb5="xbd5"
-alias bas_codegen="bas_codegen.pl"
 alias w="cd ~/workspace"
 alias q="exit"
 alias ~="cd ~"
