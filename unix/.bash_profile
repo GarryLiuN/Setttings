@@ -1,0 +1,16 @@
+export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\n\[\e[0;31m\]>\[\033[m\] "
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
+alias gd='cd ~/"Google Drive"'
+alias c='clear'
+alias d='cd ~/Desktop'
+alias mat='ssh -X n39liu@linux.student.cs.uwaterloo.ca'
+alias uw='ssh n39liu@linux.student.cs.uwaterloo.ca'
+alias nw='ssh n39liu@ubuntu1604-002.student.cs.uwaterloo.ca'
+alias db='ssh n39liu@ubuntu1204-004.student.cs.uwaterloo.ca'
+alias cs='cd ~/"Google Drive"/University/2A/CS246/1159'
+alias q='quit'
+alias .='pwd'
+alias ..='cd ..'
+alias ~='cd ~'
+alias ls='ls -GFh'
